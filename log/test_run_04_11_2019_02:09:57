@@ -1,0 +1,9 @@
+2019-11-04 02:10:15,028 - test_run_04_11_2019_02:09:57 - [INFO] - {'gpu': '0', 'name': 'test_run_04_11_2019_02:09:57', 'embed_loc': None, 'embed_dim': 300, 'total_sents': 56974869, 'lr': 0.001, 'batch_size': 16, 'max_epochs': 50, 'l2': 1e-05, 'seed': 1234, 'sample': 0.0001, 'num_neg': 10, 'side_int': 10000, 'gcn_layer': 1, 'dropout': 1.0, 'opt': 'adam', 'onlyDump': False, 'context': False, 'restore': False, 'emb_dir': './embeddings/', 'log_dir': './log/', 'config_dir': './config/', 'max_sent_len': 50, 'max_dep_len': 800}
+2019-11-04 02:10:18,311 - test_run_04_11_2019_02:09:57 - [INFO] - Epoch: 0
+2019-11-04 02:10:21,106 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 160/10000 [1.6]): Train Loss 	300.39	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:23,894 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 320/10000 [3.2]): Train Loss 	313.44	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:26,887 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 480/10000 [4.8]): Train Loss 	337.59	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:29,423 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 640/10000 [6.4]): Train Loss 	329.22	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:31,875 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 800/10000 [8.0]): Train Loss 	320.22	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:34,486 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 960/10000 [9.6]): Train Loss 	319.55	test_run_04_11_2019_02:09:57	0.0
+2019-11-04 02:10:37,167 - test_run_04_11_2019_02:09:57 - [INFO] - E:0 (Sents: 1120/10000 [11.2]): Train Loss 	315.13	test_run_04_11_2019_02:09:57	0.0

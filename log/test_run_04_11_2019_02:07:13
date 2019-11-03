@@ -1,0 +1,26 @@
+2019-11-04 02:07:29,360 - test_run_04_11_2019_02:07:13 - [INFO] - {'gpu': '0', 'name': 'test_run_04_11_2019_02:07:13', 'embed_loc': None, 'embed_dim': 300, 'total_sents': 56974869, 'lr': 0.001, 'batch_size': 16, 'max_epochs': 50, 'l2': 1e-05, 'seed': 1234, 'sample': 0.0001, 'num_neg': 10, 'side_int': 10000, 'gcn_layer': 1, 'dropout': 1.0, 'opt': 'adam', 'onlyDump': False, 'context': False, 'restore': False, 'emb_dir': './embeddings/', 'log_dir': './log/', 'config_dir': './config/', 'max_sent_len': 50, 'max_dep_len': 800}
+2019-11-04 02:07:32,757 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 0
+2019-11-04 02:07:34,229 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 0]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:34,229 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 1
+2019-11-04 02:07:35,379 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 1]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:35,380 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 2
+2019-11-04 02:07:36,653 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 2]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:36,654 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 3
+2019-11-04 02:07:37,902 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 3]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:37,903 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 4
+2019-11-04 02:07:39,156 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 4]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:39,157 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 5
+2019-11-04 02:07:40,398 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 5]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:40,399 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 6
+2019-11-04 02:07:42,220 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 6]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:42,221 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 7
+2019-11-04 02:07:45,397 - test_run_04_11_2019_02:07:13 - [INFO] - [Epoch 7]: Training Loss: nan, Best Loss: 0.0
+
+2019-11-04 02:07:45,407 - test_run_04_11_2019_02:07:13 - [INFO] - Epoch: 8

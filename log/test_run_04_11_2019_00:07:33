@@ -1,0 +1,6 @@
+2019-11-04 00:07:49,258 - test_run_04_11_2019_00:07:33 - [INFO] - {'gpu': '0', 'name': 'test_run_04_11_2019_00:07:33', 'embed_loc': None, 'embed_dim': 300, 'total_sents': 56974869, 'lr': 0.001, 'batch_size': 16, 'max_epochs': 50, 'l2': 1e-05, 'seed': 1234, 'sample': 0.0001, 'num_neg': 10, 'side_int': 10000, 'gcn_layer': 1, 'dropout': 1.0, 'opt': 'adam', 'onlyDump': False, 'context': False, 'restore': False, 'emb_dir': './embeddings/', 'log_dir': './log/', 'config_dir': './config/', 'max_sent_len': 50, 'max_dep_len': 800}
+2019-11-04 00:07:52,630 - test_run_04_11_2019_00:07:33 - [INFO] - Epoch: 0
+2019-11-04 00:07:55,710 - test_run_04_11_2019_00:07:33 - [INFO] - E:0 (Sents: 160/10000 [1.6]): Train Loss 	332.86	test_run_04_11_2019_00:07:33	0.0
+2019-11-04 00:07:58,562 - test_run_04_11_2019_00:07:33 - [INFO] - E:0 (Sents: 320/10000 [3.2]): Train Loss 	349.63	test_run_04_11_2019_00:07:33	0.0
+2019-11-04 00:08:03,423 - test_run_04_11_2019_00:07:33 - [INFO] - E:0 (Sents: 480/10000 [4.8]): Train Loss 	377.76	test_run_04_11_2019_00:07:33	0.0
+2019-11-04 00:08:07,586 - test_run_04_11_2019_00:07:33 - [INFO] - E:0 (Sents: 640/10000 [6.4]): Train Loss 	371.17	test_run_04_11_2019_00:07:33	0.0
